@@ -26,8 +26,3 @@ SQLite is a developer’s go-to choice when:
 - You need a **lightweight database** for quick prototyping or small-scale applications.
 - No **server setup** is required – everything’s in a single file. 
 - It's **fast, reliable, and easy** to use.
-
----
-
-## 📁 **Repository Structure**
-Here’s how this repository is organized:
